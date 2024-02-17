@@ -22,7 +22,6 @@ ul {
 }
 /* navigation links */
 .ul-links {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
@@ -30,4 +29,76 @@ ul {
 }
 .link-studio {
   font-weight: 400;
+}
+.ul-links :hover {
+  color: #404bbf;
+}
+
+.ul-links :active {
+  color: #404bbf;
+}
+/* address links */
+
+.address-links .a-link {
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.a-link:hover {
+  color: #404bbf;
+}
+
+.a-link:focus {
+  color: #404bbf;
+}
+
+.a-link:active {
+  color: #404bbf;
+}
+/* hero image */
+.hero {
+  background: #2e2f42;
+}
+.hero-text {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+/* button */
+
+.main-button {
+  font-weight: 500;
+  font-size: 16px;
+  color: #fff;
+  background: #4d5ae5;
+  align-items: flex-start;
+  cursor: pointer;
+}
+.main-button:hover,
+.main-button:active,
+.main-button:focus {
+  background-color: #404bbf;
+}
+
+/* Features */
+.main-header-title {
+  font-weight: 700;
+  font-size: 36px;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.header-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2e2f42;
+}
+.p-section-Features {
+  font-weight: 400;
+  font-size: 16px;
+  color: #434455;
 }
