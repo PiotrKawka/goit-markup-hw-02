@@ -5,7 +5,9 @@ body {
   letter-spacing: 0.02em;
   background-color: #ffffff;
 }
+
 /* header */
+
 .navigation .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -16,11 +18,15 @@ body {
 .logo-dark {
   color: #2e2f42;
 }
+
 /* global bulleted list */
+
 ul {
   list-style-type: none;
 }
+
 /* navigation links */
+
 .ul-links {
   font-weight: 500;
   font-size: 16px;
@@ -37,6 +43,7 @@ ul {
 .ul-links :active {
   color: #404bbf;
 }
+
 /* address links */
 
 .address-links .a-link {
@@ -44,6 +51,7 @@ ul {
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 .a-link:hover {
   color: #404bbf;
@@ -56,7 +64,9 @@ ul {
 .a-link:active {
   color: #404bbf;
 }
+
 /* hero image */
+
 .hero {
   background: #2e2f42;
 }
@@ -86,6 +96,7 @@ ul {
 }
 
 /* Features */
+
 .main-header-title {
   font-weight: 700;
   font-size: 36px;
@@ -101,4 +112,13 @@ ul {
   font-weight: 400;
   font-size: 16px;
   color: #434455;
+}
+
+/* Our Team */
+
+.team-background {
+  background-color: #f4f4fd;
+}
+.card-background {
+  background-color: #ffffff;
 }
