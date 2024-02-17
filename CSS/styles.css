@@ -122,3 +122,19 @@ ul {
 .card-background {
   background-color: #ffffff;
 }
+/* footer */
+
+.footer-background {
+  background-color: #2e2f42;
+}
+
+.logo-white {
+  color: #f4f4fd;
+}
+
+.footer-bright-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
