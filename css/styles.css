@@ -124,7 +124,9 @@ ul {
   background-color: #ffffff;
 }
 /* Our Portfolio */
-
+.portfolio {
+  background-color: #ffffff;
+}
 .main-header-title {
   background-color: #2e2f42;
   font-family: "Roboto", sans-serif;
@@ -137,9 +139,6 @@ ul {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
-}
-.header-title {
-  background-color: #fff;
 }
 
 /* footer */
