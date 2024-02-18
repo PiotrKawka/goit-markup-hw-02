@@ -59,6 +59,10 @@ ul {
   text-decoration: none;
   font-style: normal;
 }
+.address {
+  font-style: normal;
+}
+
 .a-link:hover {
   color: #404bbf;
 }
