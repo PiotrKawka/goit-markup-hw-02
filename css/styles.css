@@ -124,16 +124,19 @@ ul {
   background-color: #ffffff;
 }
 /* Our Portfolio */
-.portfolio {
-  background-color: #ffffff;
+.nazwa-sekcji-portfolio {
+  background-color: #f4f4fd;
 }
 .main-header-title {
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
+  font-weight: 700;
+  font-size: 36px;
 
+  // line-height: 40px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 
