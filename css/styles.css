@@ -128,16 +128,12 @@ ul {
   background-color: #ffffff;
 }
 .main-header-title {
-  background-color: #2e2f42;
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-
-  line-height: 40px;
-  line-height: 1.11111;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
+
   color: #2e2f42;
 }
 
