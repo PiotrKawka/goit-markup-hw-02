@@ -123,6 +123,15 @@ ul {
 .card-background {
   background-color: #ffffff;
 }
+/* Our Portfolio */
+
+.main-header-title {
+  background-color: #f4f4fd;
+}
+.header-title {
+  background-color: #ffffff;
+}
+
 /* footer */
 
 .footer-background {
